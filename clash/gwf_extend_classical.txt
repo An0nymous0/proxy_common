@@ -1,0 +1,2 @@
+payload:
+  - DOMAIN-SUFFIX,wallzhihu.com,PROXY
