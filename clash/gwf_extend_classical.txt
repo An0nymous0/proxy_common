@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,wallzhihu.com,PROXY
+  - DOMAIN-SUFFIX,stackpathcdn.com,PROXY
