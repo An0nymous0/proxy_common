@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,wallzhihu.com,PROXY
   - DOMAIN-SUFFIX,stackpathcdn.com,PROXY
   - DOMAIN,dl.todesktop.com,PROXY
+  - DOMAIN-SUFFIX,open-gpt.app,PROXY
