@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,stackpathcdn.com,PROXY
   - DOMAIN,dl.todesktop.com,PROXY
   - DOMAIN-SUFFIX,open-gpt.app,PROXY
+  - DOMAIN-SUFFIX,imgix.net,PROXY
+  - DOMAIN-SUFFIX,httpbin.org,PROXY
