@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,open-gpt.app,PROXY
   - DOMAIN-SUFFIX,imgix.net,PROXY
   - DOMAIN-SUFFIX,httpbin.org,PROXY
+  - DOMAIN-SUFFIX,bell-sw.com,PROXY
