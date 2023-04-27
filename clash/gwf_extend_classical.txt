@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,httpbin.org,PROXY
   - DOMAIN-SUFFIX,bell-sw.com,PROXY
   - DOMAIN-SUFFIX,textcortex.com,PROXY
+  - DOMAIN,api.notion.com,PROXY
