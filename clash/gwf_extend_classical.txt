@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,textcortex.com,PROXY
   - DOMAIN,api.notion.com,PROXY
   - DOMAIN,bulianglin.com,PROXY
+  - DOMAIN,medium.com,PROXY
