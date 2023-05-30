@@ -1,12 +1,12 @@
 payload:
-  - '+.wallzhihu.com'
-  - '+.stackpathcdn.com'
-  - 'dl.todesktop.com'
-  - '+.open-gpt.app'
-  - '+.imgix.net'
-  - '+.httpbin.org'
-  - '+.bell-sw.com'
-  - '+.textcortex.com'
-  - 'api.notion.com'
-  - '+.bulianglin.com'
-  - '+.diffblue.com'
+  - DOMAIN-SUFFIX,wallzhihu.co
+  - DOMAIN-SUFFIX,stackpathcdn.com
+  - DOMAIN,dl.todesktop.com
+  - DOMAIN-SUFFIX,open-gpt.app
+  - DOMAIN-SUFFIX,imgix.net
+  - DOMAIN-SUFFIX,httpbin.org
+  - DOMAIN-SUFFIX,bell-sw.com
+  - DOMAIN-SUFFIX,textcortex.com
+  - DOMAIN,api.notion.com
+  - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,diffblue.com
