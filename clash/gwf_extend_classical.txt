@@ -10,4 +10,4 @@ payload:
   - DOMAIN,api.notion.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,diffblue.com
-  - DOMAIN,api.notin.com
+  - DOMAIN,api.notion.com
