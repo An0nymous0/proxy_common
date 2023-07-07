@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,textcortex.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,diffblue.com
+  - DOMAIN-SUFFIX,slant.co
