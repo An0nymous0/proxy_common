@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,diffblue.com
   - DOMAIN-SUFFIX,slant.co
+  - DOMAIN-SUFFIX,gptgod.site
