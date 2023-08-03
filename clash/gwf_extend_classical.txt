@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,gptgod.site
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,foxit.com
+  - DOMAIN-SUFFIX,claude.ai
