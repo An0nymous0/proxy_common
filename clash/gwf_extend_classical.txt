@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,foxit.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,app.link
