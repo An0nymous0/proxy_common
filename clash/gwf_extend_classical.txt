@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,app.link
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,haxmac.cc
