@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,app.link
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,haxmac.cc
+  - DOMAIN-SUFFIX,prompthero.com
