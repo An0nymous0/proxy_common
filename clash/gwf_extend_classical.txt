@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,haxmac.cc
   - DOMAIN-SUFFIX,prompthero.com
+  - DOMAIN-SUFFIX,unsplash.com
