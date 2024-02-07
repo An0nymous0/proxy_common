@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,splunkcloud.com
   - DOMAIN-SUFFIX,speakai.co
   - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,ciciai.com
