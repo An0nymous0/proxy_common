@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,postman.com
+  - DOMAIN-SUFFIX,ltx.studio
