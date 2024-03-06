@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,postman.com
   - DOMAIN-SUFFIX,ltx.studio
+  - DOMAIN-SUFFIX,devv.ai
