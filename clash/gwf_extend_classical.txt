@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,devv.ai
   - DOMAIN-SUFFIX,www.htx.com
   - DOMAIN-SUFFIX,heygen.com
+  - DOMAIN-SUFFIX,heygencdn.com
