@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,ltx.studio
   - DOMAIN-SUFFIX,devv.ai
   - DOMAIN-SUFFIX,www.htx.com
+  - DOMAIN-SUFFIX,www.heygen.com
