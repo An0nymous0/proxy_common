@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,heygen.com
   - DOMAIN-SUFFIX,heygencdn.com
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,.hume.ai
