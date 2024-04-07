@@ -33,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,hume.ai
   - DOMAIN-SUFFIX,chatnio.net
+  - DOMAIN-SUFFIX,explainthis
