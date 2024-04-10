@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,chatnio.net
   - DOMAIN-SUFFIX,explainthis.io
   - DOMAIN-SUFFIX,convertio.me
+  - DOMAIN-SUFFIX,dify.ai
