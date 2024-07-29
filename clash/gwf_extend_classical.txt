@@ -37,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,convertio.me
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,todesktop.com
+  - DOMAIN-SUFFIX,freedownloadmanager.org
