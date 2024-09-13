@@ -38,3 +38,4 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,todesktop.com
   - DOMAIN-SUFFIX,freedownloadmanager.org
+  - DOMAIN-SUFFIX,lobehub.com
