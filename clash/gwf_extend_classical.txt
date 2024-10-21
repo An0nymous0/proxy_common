@@ -40,3 +40,4 @@ payload:
   - DOMAIN-SUFFIX,freedownloadmanager.org
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,iterm2.com
+  - DOMAIN-SUFFIX,shadcn.com
