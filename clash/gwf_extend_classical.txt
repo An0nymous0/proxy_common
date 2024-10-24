@@ -41,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,iterm2.com
   - DOMAIN-SUFFIX,shadcn.com
+  - DOMAIN-SUFFIX,follow.is
