@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,iterm2.com
   - DOMAIN-SUFFIX,shadcn.com
   - DOMAIN-SUFFIX,follow.is
+  - DOMAIN-SUFFIX,open-resume.com
