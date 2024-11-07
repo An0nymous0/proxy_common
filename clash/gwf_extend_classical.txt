@@ -43,3 +43,4 @@ payload:
   - DOMAIN-SUFFIX,shadcn.com
   - DOMAIN-SUFFIX,follow.is
   - DOMAIN-SUFFIX,open-resume.com
+  - DOMAIN-SUFFIX,next-forge.com
