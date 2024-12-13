@@ -44,3 +44,4 @@ payload:
   - DOMAIN-SUFFIX,follow.is
   - DOMAIN-SUFFIX,open-resume.com
   - DOMAIN-SUFFIX,next-forge.com
+  - DOMAIN-SUFFIX,inputsource.pro
