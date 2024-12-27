@@ -46,3 +46,4 @@ payload:
   - DOMAIN-SUFFIX,next-forge.com
   - DOMAIN-SUFFIX,inputsource.pro
   - DOMAIN-SUFFIX,k8slens.dev
+  - DOMAIN-SUFFIX,cursor.com
