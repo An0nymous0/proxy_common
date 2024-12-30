@@ -48,3 +48,4 @@ payload:
   - DOMAIN-SUFFIX,k8slens.dev
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,justalk.com
+  - DOMAIN-SUFFIX,justalkcloud.com
