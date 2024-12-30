@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,inputsource.pro
   - DOMAIN-SUFFIX,k8slens.dev
   - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,justalk.com
