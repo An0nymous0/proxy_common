@@ -50,3 +50,4 @@ payload:
   - DOMAIN-SUFFIX,justalk.com
   - DOMAIN-SUFFIX,justalkcloud.com
   - DOMAIN-SUFFIX,trpc.io
+  - DOMAIN-SUFFIX,jetstack.io
