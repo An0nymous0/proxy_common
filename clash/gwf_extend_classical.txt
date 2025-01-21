@@ -52,3 +52,4 @@ payload:
   - DOMAIN-SUFFIX,trpc.io
   - DOMAIN-SUFFIX,jetstack.io
   - DOMAIN-SUFFIX,lobo-chat.ga0x.com
+  - DOMAIN-SUFFIX,gin-gonic.com
