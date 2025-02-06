@@ -54,3 +54,4 @@ payload:
   - DOMAIN-SUFFIX,lobo-chat.ga0x.com
   - DOMAIN-SUFFIX,gin-gonic.com
   - DOMAIN-SUFFIX,heroui.com
+  - DOMAIN-SUFFIX,signal.group
