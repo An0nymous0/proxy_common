@@ -55,3 +55,4 @@ payload:
   - DOMAIN-SUFFIX,gin-gonic.com
   - DOMAIN-SUFFIX,heroui.com
   - DOMAIN-SUFFIX,signal.group
+  - DOMAIN-SUFFIX,clerk.com
