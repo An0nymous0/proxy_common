@@ -57,3 +57,4 @@ payload:
   - DOMAIN-SUFFIX,signal.group
   - DOMAIN-SUFFIX,clerk.com
   - DOMAIN-SUFFIX,kingrootapp.net
+  - DOMAIN-SUFFIX,hoppscotch.io
