@@ -56,3 +56,4 @@ payload:
   - DOMAIN-SUFFIX,heroui.com
   - DOMAIN-SUFFIX,signal.group
   - DOMAIN-SUFFIX,clerk.com
+  - DOMAIN-SUFFIX,kingrootapp.net
