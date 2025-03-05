@@ -59,3 +59,4 @@ payload:
   - DOMAIN-SUFFIX,kingrootapp.net
   - DOMAIN-SUFFIX,hoppscotch.io
   - DOMAIN-SUFFIX,orbstack.dev
+  - DOMAIN-SUFFIX,linux.do
