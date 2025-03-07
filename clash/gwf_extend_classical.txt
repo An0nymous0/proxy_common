@@ -62,3 +62,4 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,raycast.com
+  - DOMAIN-SUFFIX,freedownloadmanager.org
