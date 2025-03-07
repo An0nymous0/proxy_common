@@ -61,3 +61,4 @@ payload:
   - DOMAIN-SUFFIX,orbstack.dev
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,warp.dev
+  - DOMAIN-SUFFIX,raycast.com
