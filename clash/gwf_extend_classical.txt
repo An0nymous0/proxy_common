@@ -60,3 +60,4 @@ payload:
   - DOMAIN-SUFFIX,hoppscotch.io
   - DOMAIN-SUFFIX,orbstack.dev
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,krita.org
