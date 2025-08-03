@@ -62,3 +62,4 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,krita.org
   - DOMAIN-SUFFIX,rapidapi.com
+  - DOMAIN-SUFFIX,codeiumdata.com
