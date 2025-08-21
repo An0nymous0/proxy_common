@@ -63,3 +63,4 @@ payload:
   - DOMAIN-SUFFIX,krita.org
   - DOMAIN-SUFFIX,rapidapi.com
   - DOMAIN-SUFFIX,codeiumdata.com
+  - DOMAIN-SUFFIX,opencode.ai
