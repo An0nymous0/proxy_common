@@ -64,3 +64,4 @@ payload:
   - DOMAIN-SUFFIX,rapidapi.com
   - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,graalvm.org
