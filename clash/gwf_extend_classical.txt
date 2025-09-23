@@ -65,3 +65,4 @@ payload:
   - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,graalvm.org
+  - DOMAIN-SUFFIX,deepgram.com
