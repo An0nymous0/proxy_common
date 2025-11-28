@@ -68,3 +68,4 @@ payload:
   - DOMAIN-SUFFIX,deepgram.com
   - DOMAIN-SUFFIX,proxygen.com
   - DOMAIN-SUFFIX,langchain.com
+  - DOMAIN-SUFFIX,agno.com
