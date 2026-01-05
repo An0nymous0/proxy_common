@@ -69,3 +69,4 @@ payload:
   - DOMAIN-SUFFIX,proxygen.com
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,agno.com
+  - DOMAIN-SUFFIX,exa.ai
