@@ -71,3 +71,4 @@ payload:
   - DOMAIN-SUFFIX,agno.com
   - DOMAIN-SUFFIX,exa.ai
   - DOMAIN-SUFFIX,gofastmcp.com
+  - DOMAIN-SUFFIX,arena.ai
