@@ -72,3 +72,4 @@ payload:
   - DOMAIN-SUFFIX,exa.ai
   - DOMAIN-SUFFIX,gofastmcp.com
   - DOMAIN-SUFFIX,arena.ai
+  - DOMAIN-SUFFIX,nousresearch.com
