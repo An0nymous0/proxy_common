@@ -75,3 +75,4 @@ payload:
   - DOMAIN-SUFFIX,nousresearch.com
   - DOMAIN-SUFFIX,qiuqiutoken.com
   - DOMAIN-SUFFIX,hybgzs.com
+  - DOMAIN-SUFFIX,upclaude.com
