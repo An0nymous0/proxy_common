@@ -73,3 +73,4 @@ payload:
   - DOMAIN-SUFFIX,gofastmcp.com
   - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,nousresearch.com
+  - DOMAIN-SUFFIX,qiuqiutoken.com
