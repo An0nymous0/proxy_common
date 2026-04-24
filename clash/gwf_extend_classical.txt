@@ -74,3 +74,4 @@ payload:
   - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,nousresearch.com
   - DOMAIN-SUFFIX,qiuqiutoken.com
+  - DOMAIN-SUFFIX,hybgzs.com
