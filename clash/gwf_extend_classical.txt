@@ -76,3 +76,4 @@ payload:
   - DOMAIN-SUFFIX,qiuqiutoken.com
   - DOMAIN-SUFFIX,hybgzs.com
   - DOMAIN-SUFFIX,upclaude.com
+  - DOMAIN-SUFFIX,openhands.dev
