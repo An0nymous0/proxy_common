@@ -77,3 +77,4 @@ payload:
   - DOMAIN-SUFFIX,hybgzs.com
   - DOMAIN-SUFFIX,upclaude.com
   - DOMAIN-SUFFIX,openhands.dev
+  - DOMAIN-SUFFIX,lenshq.io
