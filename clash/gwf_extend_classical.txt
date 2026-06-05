@@ -78,3 +78,4 @@ payload:
   - DOMAIN-SUFFIX,upclaude.com
   - DOMAIN-SUFFIX,openhands.dev
   - DOMAIN-SUFFIX,lenshq.io
+  - DOMAIN-SUFFIX,open-design.ai
