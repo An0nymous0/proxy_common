@@ -79,3 +79,4 @@ payload:
   - DOMAIN-SUFFIX,openhands.dev
   - DOMAIN-SUFFIX,lenshq.io
   - DOMAIN-SUFFIX,open-design.ai
+  - DOMAIN-SUFFIX,screenkite.com
